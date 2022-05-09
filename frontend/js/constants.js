@@ -1,4 +1,4 @@
-const contractAddress = "0x0D04bC6a4B77AF57B0a34F2Cd8758f5370beF79b"; //Replace with your own contract address
+const contractAddress = ""; //Replace with your own contract address
 const chain = 'rinkeby'; // rinkeby or polygon
 
 const welcome_h1 = "Welcome to the Partybear.io NFT Project!!";
